@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['u.martinez@epages.com']
   spec.description   = 'A Ruby interface that allows to integrate any Epages Shop with any ruby framework via Epages Rest API.'
   spec.summary       = 'A Ruby interface to the Epages Rest API.'
-  spec.homepage      = 'https://github.com/ePages-de/epages-rest-ruby'
+  spec.homepage      = 'https://github.com/askolsam/kaaos-epages-rest-ruby'
   spec.license       = 'MIT'
 
   spec.require_paths = %w(lib)

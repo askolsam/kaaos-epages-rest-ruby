@@ -36,11 +36,11 @@ Once this is done, you can use the API calls.
 #### [Get Categories](https://developer.epages.com/apps/api-reference/get-shops-shopid-categories.html)
 `categories = shop.categories`
 
-### Full collection of examples [here](https://github.com/ePages-de/epages-rest-ruby/tree/master/examples)
+### Full collection of examples [here](https://github.com/askolsam/kaaos-epages-rest-ruby/tree/master/examples)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ePages-de/epages-rest-ruby.
+Bug reports and pull requests are welcome on GitHub at https://github.com/askolsam/kaaos-epages-rest-ruby.
 
 ## License
 
