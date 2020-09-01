@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.org/ePages-de/epages-rest-ruby.svg)](https://travis-ci.org/ePages-de/epages-rest-ruby)
-[![Code Climate](https://codeclimate.com/github/ePages-de/epages-rest-ruby/badges/gpa.svg)](https://codeclimate.com/github/ePages-de/epages-rest-ruby)
-[![Test Coverage](https://codeclimate.com/github/ePages-de/epages-rest-ruby/badges/coverage.svg)](https://codeclimate.com/github/ePages-de/epages-rest-ruby/coverage)
-
 # The ePages REST Ruby Gem
 
 A Ruby interface to the ePages REST API.
