@@ -5,8 +5,8 @@ require 'epages/version'
 
 Gem::Specification.new do |spec|
   spec.version       = Epages::VERSION
-  spec.name          = 'epages-rest'
-  spec.authors       = ['Domingo Cividanes', 'Unai Martinez']
+  spec.name          = 'kaaos-epages-rest'
+  spec.authors       = ['Sami Askolin', 'Domingo Cividanes', 'Unai Martinez']
   spec.email         = ['u.martinez@epages.com']
   spec.description   = 'A Ruby interface that allows to integrate any Epages Shop with any ruby framework via Epages Rest API.'
   spec.summary       = 'A Ruby interface to the Epages Rest API.'
